@@ -23,7 +23,7 @@ This is the core app of the project.
     - Setting (Preview/Edit Account info)
 
   ### key features
-  - GPS tracker (for map)
+    - GPS tracker (for map)
   
 ### 3. Store specific page
   - This is the page shows customized information for a specific store
@@ -31,7 +31,7 @@ This is the core app of the project.
   - The page shows various information such as available menu, discount details and so on
   
   ### key features
-  - Customer Reviews
+    - Customer Reviews
   
 ### 4. Order/Transaction Page
   - Display orders in the cart
