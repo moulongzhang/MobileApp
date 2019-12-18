@@ -21,6 +21,7 @@ This is the core app of the project.
   - Customers should be able to do variety of General tasks on the page:
     - List of Restaurants available
     - Setting (Preview/Edit Account info)
+    - Convert to Map
 
   ### key features
     - GPS tracker (for map)
