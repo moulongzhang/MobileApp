@@ -38,4 +38,12 @@ This is the core app of the project.
   - Execute transaction
   ### key features
     - credit card transaction
+    
+### 5. Account Info / Settings Page
+  - Display Customer information:
+    - Preview/Edit Account info (payment info)
+    - Order History
+
+  ### key features
+    - 
 
