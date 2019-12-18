@@ -46,4 +46,11 @@ This is the core app of the project.
 
   ### key features
     - 
+### 6. Map (alternative representation of General page)
+  - Display a map:
+    - list available restrant on the map
+    - using GPS info for current location
+
+  ### key features
+    - GPS    
 
