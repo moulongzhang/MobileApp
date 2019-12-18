@@ -54,4 +54,44 @@ This is the core app of the project.
 
   ### key features
     - GPS    
+    
+    
+    
+    
+ ### list of functions
+ Login
+ - login form
+ - sign up form
+ 
+ Home (General)
+ - Photo Display: displays photos (promotions, events)
+ - time counter: Display time
+ - Display restaurants
+  - filter display mechanism
+ - Display another pages
+ - Search bar for restaurant
+ 
+ MAP
+ - GOOGLE MAP API
+ - display registered restaurant
+ 
+ FOOD
+ - info function (work with database) address, hours, phone number, website
+ - overall food display function (menu bar)
+ - specific food display (detailed info)
+ - add to cart button (save)
+ - view order / checkout button (redirect the page to payment page)
+ - timer / # of stocks
 
+ Account/ Setting
+ - display/edit all info under user ID (database)
+ - change password (e-mail verification)
+ - display order history (database)
+ - change/update payment info (default button)
+ - Signout
+ 
+ Payment-page
+ - Calculation page (for tax etc..)
+ - back button (navigate back to previous page)
+ - edit payment info
+ - transaction button (check if card is valid)
