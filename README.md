@@ -56,7 +56,9 @@ This is the core app of the project.
     - GPS    
     
     
-    
+ 
+
+
     
  ### list of functions
  Login
@@ -95,3 +97,36 @@ This is the core app of the project.
  - back button (navigate back to previous page)
  - edit payment info
  - transaction button (check if card is valid)
+
+
+## 2. App for restuarant
+
+### 1. Login in Page
+  - Restaurant should be able to Login/Sign up for an account on the Login page
+  ### key features
+    - Create a database accordingly
+    - Sign-up would redirect to a page where user can fill up the application    
+    
+### 2. General Page
+  - User should be able to do variety of General tasks on the page:
+  - View the list of live orders 
+  - Setting (Preview/Edit Account info)
+  - Accept or decline the order
+  - On/Off the availability of restaurant
+  ### key features
+    - 
+### 3. Store specific page
+  - This is the page shows customized product information by the user
+  - The page shows various information such as available menu, discount details and so on
+  - Adding or deleting or editing products
+  - Changing the available of products
+  ### key features
+    - 
+### 4. Account Info / Settings Page
+  - Display Restaurant information:
+  - Preview/Edit Account info (Bank info)
+  - Order History
+### key features
+    - Display a list of history orders for a specified period of time 
+    - Display each order’s payment detail
+    - Generate a report for a specified period of time (monthly) for tax purposes
